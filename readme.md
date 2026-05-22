@@ -1,6 +1,6 @@
 # Keyboard
 
-![Keyboard](./Images/eliise.jpg)
+![Keyboard](./.images/eliise.jpg)
 
 A fullsize keyboard in QMK using the Raspberry PI PICO devboard (RP2040)
 
