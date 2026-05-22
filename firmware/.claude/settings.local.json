@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/RobinMadar/qmk_firmware/**)",
+      "Bash(python3 -m qmk compile -kb eliisev2 -km default)",
+      "Bash(make eliisev2:default)",
+      "Bash(xargs grep *)",
+      "Bash(xargs cat *)"
+    ]
+  }
+}
